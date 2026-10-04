@@ -1,5 +1,5 @@
 # Guia Técnico das Bancadas Práticas
-
+<!--
 ## Estação 1: Goniometria Articular Eletrônica (ROM)
 
 ### Objetivo clínico
@@ -8,7 +8,7 @@ Medição da amplitude de movimento (Range of Motion) de articulações como cot
 ### Componentes
 - 1x MPU-9250 (ou GY-521)
 - 1x Arduino Nano (ou ESP32)
-- 1x Display LCD 1602A I2C
+- 1x Display LCD 1602A (ligação em paralelo)
 
 ### Pinagem
 - MPU-9250 / LCD I2C:
@@ -16,26 +16,55 @@ Medição da amplitude de movimento (Range of Motion) de articulações como cot
   - GND ➔ GND
   - SDA ➔ A4 (Arduino Nano) ou GPIO 21 (ESP32)
   - SCL ➔ A5 (Arduino Nano) ou GPIO 22 (ESP32)
+ 
+### Esquema de Ligação em Paralelo (LCD 1602A no Arduino Nano / UNO)
+| Pino do LCD 1602A | Nome do Pino | Conexão no Arduino / Circuito | Função |
+|-------------------|--------------|------------------------------|--------|
+| Pino 1 | VSS | GND | Alimentação GND |
+| Pino 2 | VDD | 5V | Alimentação lógica (+5V) |
+| Pino 3 | V0 | Pino central do potenciômetro 10kΩ | Ajuste de contraste (extremidades do pot. em 5V e GND) |
+| Pino 4 | RS | Pino digital D12 | Seleção de registro (comando/dado) |
+| Pino 5 | R/W | GND | Leitura/escrita (GND força modo escrita) |
+| Pino 6 | E | Pino digital D11 | Sinal de habilitação (Enable) |
+| Pinos 7 a 10 | D0 a D3 | Desconectados | Não utilizados no modo de 4 bits |
+| Pino 11 | D4 | Pino digital D5 | Linha de dados D4 |
+| Pino 12 | D5 | Pino digital D4 | Linha de dados D5 |
+| Pino 13 | D6 | Pino digital D3 | Linha de dados D6 |
+| Pino 14 | D7 | Pino digital D2 | Linha de dados D7 |
+| Pino 15 | A (Anodo) | 5V (via resistor 220Ω) | Luz de fundo (Backlight +) |
+| Pino 16 | K (Catodo) | GND | Luz de fundo (Backlight -) |
+
 
 ### Código exemplo
 
 ```cpp
-#include <Wire.h>
-#include <MPU6050.h> // Compatível com MPU-6050/6500/9250
-#include <LiquidCrystal_I2C.h>
+// =====================================================================
+// ESTAÇÃO 1: Goniômetro Digital Articular (ROM)
+// Display LCD 1602A em Modo Paralelo (4 bits) + Sensor MPU-9250 / GY-521
+// =====================================================================
 
+#include <Wire.h>
+#include <MPU6050.h>        // Compatível com MPU-6050 / MPU-6500 / MPU-9250
+#include <LiquidCrystal.h>  // Biblioteca padrão para modo paralelo (sem I2C)
+
+// Inicializa a biblioteca definindo os pinos: LiquidCrystal(RS, Enable, D4, D5, D6, D7)
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 MPU6050 mpu;
-LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 void setup() {
   Wire.begin();
   Serial.begin(115200);
-  lcd.init();
-  lcd.backlight();
+
+  // Define a dimensão do LCD (16 colunas x 2 linhas)
+  lcd.begin(16, 2);
   mpu.initialize();
+
+  // Mensagem inicial de calibração
   lcd.setCursor(0, 0);
   lcd.print("Goniometro ROM");
-  delay(1000);
+  lcd.setCursor(0, 1);
+  lcd.print("Iniciando...");
+  delay(1200);
   lcd.clear();
 }
 
@@ -43,16 +72,25 @@ void loop() {
   int16_t ax, ay, az;
   mpu.getAcceleration(&ax, &ay, &az);
 
+  // Cálculo do ângulo de inclinação articular (Pitch)
   float angle = atan2((float)ay, (float)az) * 180.0 / M_PI;
 
+  // Exibição no LCD 1602A Paralelo
   lcd.setCursor(0, 0);
-  lcd.print("Angulo Artic:");
-  lcd.setCursor(0, 1);
+  lcd.print("AngArtic: ");
   lcd.print(angle, 1);
-  lcd.print(" deg   ");
+  lcd.print(" deg ");
 
+  lcd.setCursor(0, 1);
+  if (abs(angle) < 15.0) {
+    lcd.print("Status: Repouso ");
+  } else {
+    lcd.print("Status: Em Mov. ");
+  }
+
+  // Saída Serial para monitoramento no computador
   Serial.println(angle);
-  delay(100);
+  delay(120);
 }
 ```
 
@@ -167,3 +205,4 @@ void loop() {
 ## Objetivo pedagógico da bancada
 
 A bancada prática tem como objetivo demonstrar de forma acessível e aplicada como conceitos de sensores, processamento analógico, microcontroladores e atuação mecânica podem ser integrados em sistemas biomédicos de apoio à reabilitação.
+-->
