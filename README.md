@@ -2,7 +2,7 @@
 
 ![GEB Logo](logo/logo_v1.svg)
 
-**Vinculado ao NOCS LAB – IFRN Campus Parnamirim**
+**Grupo de Pesquisa em Mecatrônica (GPMEC) - Vinculado ao NOCS LAB – IFRN Campus Parnamirim**
 
 ---
 
