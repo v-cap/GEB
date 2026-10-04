@@ -1,148 +1,169 @@
 # Slides do Workshop 1 – Introdução à Biomecatrônica
 
-## Slide 1 – Capa e Introdução ao Workshop
+## Slide 1 – Capa e Introdução
+Título: Introdução à Biomecatrônica: Conceitos, Tecnologias e Reabilitação
 
-**Título principal:** Introdução à Biomecatrônica: Conceitos, Tecnologias e Reabilitação.
+Subtítulo:
+Workshop Integrado no IFRN Campus Parnamirim <!--e Centros Especializados em Reabilitação (CER) -->
 
-**Subtítulo:** Workshop Integrado no IFRN Campus Parnamirim & Centros Especializados em Reabilitação (CER).
-
-**Objetivos:**
-- Unir conceitos de engenharia e mecatrônica com a prática clínica de reabilitação motora;
-- contextualizar a biomecatrônica como área interdisciplinar;
-- apresentar ferramentas e tecnologias aplicadas à saúde funcional.
-
----
-
-## Slide 2 – Conceito e Origem da Biomecatrônica
-
-**Definição:** Aplicação sinérgica da engenharia mecatrônica (mecânica, eletrônica, computação e controle) à biologia humana e à medicina.
-
-**Abrangência:** A biomecatrônica vai além da robótica convencional, focando na restauração, no auxílio e na ampliação de funções corporais afetadas por lesões, amputações ou condições neurológicas.
+Objetivos:
+- apresentar os fundamentos da biomecatrônica;
+- contextualizar aplicações em saúde e reabilitação;
+- conectar teoria e prática;
+- estimular a formação de uma comunidade acadêmica interdisciplinar.
 
 ---
 
-## Slide 3 – Arquitetura de um Sistema Biomecatrônico
+## Slide 2 – Conceito e origem da biomecatrônica
+A biomecatrônica é uma área interdisciplinar que integra engenharia mecatrônica, eletrônica, computação, biomecânica e saúde.
 
-**Estrutura fundamental:**
+Ela busca desenvolver soluções tecnológicas para apoiar o ser humano em atividades de mobilidade, reabilitação, assistência e na melhoria da qualidade de vida.
+
+A área vai além da robótica convencional, pois considera as particularidades fisiológicas, biomecânicas e cognitivas do paciente.
+
+---
+
+## Slide 3 – Arquitetura de um sistema biomecatrônico
+Um sistema biomecatrônico é composto por:
 - sujeito humano;
-- sensoriamento;
-- condicionamento de sinais;
+- sensores;
+- processamento de sinais;
 - atuadores;
 - malha de feedback.
 
-**Integração homem-máquina:** foco na harmonização contínua entre o dispositivo robótico e o usuário.
+A integração entre o usuário e o dispositivo é essencial para que a tecnologia seja funcional, segura e adaptada ao paciente.
 
 ---
 
-## Slide 4 – O Sujeito Humano e a Complexidade Fisiológica
+## Slide 4 – O sujeito humano e a complexidade fisiológica
+O corpo humano é um sistema dinâmico, não linear e altamente variável entre indivíduos.
 
-- O corpo humano apresenta comportamento não linear, dinâmico e individualizado.
-- O sistema nervoso central e periférico transmite comandos bioelétricos.
-- O sistema musculoesquelético fornece suporte mecânico e locomoção.
+Sua funcionalidade depende de:
+- controle motor;
+- resposta neuromuscular;
+- integração sensorial;
+- biomecânica de movimento;
+- capacidade de adaptação e aprendizado.
 
-**Conclusão:** cada paciente exige uma abordagem específica, com atenção à variabilidade fisiológica e funcional.
-
----
-
-## Slide 5 – Sensores Fisiológicos e Biomecânicos
-
-### Sensores bioelétricos e acústicos
-- Eletromiografia (EMG)
-- Mecanomiografia (MMG)
-
-### Sensores inerciais e de pressão
-- IMUs como MPU-9250 e LSM6DS3
-- medidas de ângulo, aceleração e orientação articular
-- sensores FSR para medição de força e distribuição de pressão
+Essas características tornam a interação humano-máquina um desafio técnico e clínico importante.
 
 ---
 
-## Slide 6 – Condicionamento e Processamento de Sinais
+## Slide 5 – Sensores fisiológicos e biomecânicos
+Sensores são fundamentais para captar sinais e informações relevantes para o sistema.
 
-**Tratamento de dados:**
+Principais categorias:
+- sinais bioelétricos: EMG, EEG;
+- sinais mecânicos: força, pressão, deslocamento;
+- sensores inerciais: acelerômetros e giroscópios;
+- sensores de pressão: FSR e matrizes de pressão.
+
+Esses dispositivos permitem monitorar o movimento, a intenção do usuário e o comportamento funcional do corpo.
+
+---
+
+## Slide 6 – Condicionamento e processamento de sinais
+Após a aquisição dos dados, é necessário realizar:
+- filtragem;
 - amplificação;
-- filtragem de ruído;
-- conversão analógico-digital (ADC);
-- análise e interpretação do sinal.
+- conversão analógico-digital;
+- extração de características;
+- interpretação clínica ou computacional.
 
-**Importância da resolução analógica:** conversores externos como ADS1115 permitem leituras mais precisas em sensores de força e resistência.
+A qualidade da aquisição e do processamento influencia diretamente a precisão e a confiabilidade do sistema.
 
 ---
 
-## Slide 7 – Atuadores e Elementos de Acionamento
+## Slide 7 – Atuadores e elementos de acionamento
+Os atuadores transformam sinais de controle em movimento físico.
 
-**Sistemas de propulsão:**
+Exemplos:
+- servomotores;
 - motores elétricos;
-- servomotores de alto torque;
-- atuadores pneumáticos ou hidráulicos.
+- atuadores pneumáticos;
+- atuadores hidráulicos;
+- sistemas de tração e cabos.
 
-**Geração de movimento:** aplicação de torque em articulações ou por cabos de tração flexíveis.
-
----
-
-## Slide 8 – Estratégias de Controle em Malha Fechada
-
-**Abordagem “Assistance-as-Needed”:**
-- o dispositivo fornece assistência proporcional ao esforço residual do paciente;
-- favorece a neuroplasticidade e a reabilitação funcional.
-
-**Sistemas biocooperativos:**
-- regulação contínua do dispositivo usando feedback em tempo real;
-- algoritmos como PID ou lógica fuzzy.
+Esses componentes são fundamentais para gerar assistência, resistência ou movimento controlado.
 
 ---
 
-## Slide 9 – Dispositivos de Reabilitação: Próteses e Exosqueletos
+## Slide 8 – Controle em malha fechada
+Em sistemas biomecatrônicos, o controle em malha fechada é essencial para adaptar a atuação às condições do paciente e ao ambiente.
 
-- membros biónicos;
+Exemplos de estratégias:
+- controle proporcional;
+- controle PID;
+- lógica fuzzy;
+- assistência adaptativa;
+- abordagem assistance-as-needed.
+
+Essa lógica permite responder de forma mais natural à intenção do usuário e aprimorar a reabilitação funcional.
+
+---
+
+## Slide 9 – Dispositivos de reabilitação
+A biomecatrônica é amplamente aplicada em:
+- próteses;
+- órteses;
 - exoesqueletos;
-- apoio em reabilitação de membros superiores e inferiores;
-- recuperação funcional em pacientes pós-AVC ou com lesão medular.
+- dispositivos para apoio à marcha;
+- sistemas para membros superiores;
+- tecnologias de reabilitação motora.
 
-**Objetivo:** melhorar a capacidade funcional e a autonomia do paciente.
+Esses dispositivos têm como objetivo restaurar funções, reduzir esforço e aumentar a autonomia do paciente.
 
 ---
 
-## Slide 10 – Tecnologia Assistiva de Baixo Custo e Acessibilidade
+## Slide 10 – Tecnologia assistiva de baixo custo
+A prototipagem acessível desempenha um papel importante no desenvolvimento de soluções aplicadas à saúde.
 
-**Prototipagem rápida:**
-- microcontroladores (Arduino, ESP32);
+Técnicas e recursos comuns:
+- Arduino;
+- ESP32;
+- sensores de baixo custo;
 - impressão 3D;
-- desenvolvimento local e acessível.
+- eletrônica de prototipagem;
+- desenvolvimento de soluções locais.
 
-**Parcerias institucionais:** integração entre o IFRN, CER e outros atores da rede de saúde e pesquisa.
-
----
-
-## Slide 11 – A Nova Prática Motivacional Hands-On
-
-### Estrutura das bancadas práticas
-
-**Estação 1 – Goniometria Articular Eletrônica (ROM):**
-- medição de amplitude de movimento com IMU MPU-9250;
-- leitura em tempo real em LCD.
-
-**Estação 2 – Mapeamento de Pressão Plantar e Preensão:**
-- leitura de cargas plantares e força via FSR e ADS1115 de 16 bits.
-
-**Estação 3 – Órtese Ativa e Garra Assistiva em Malha Fechada:**
-- controle do servo MG946R por intenção de força ou inclinação.
+Essa abordagem facilita o trabalho em laboratórios, em projetos de pesquisa e em pesquisas colaborativas com foco em acessibilidade.
 
 ---
 
-## Slide 12 – Conclusão, Discussão e Próximos Passos
+## Slide 11 – Bancadas práticas do workshop
+O workshop foi organizado em três estações de demonstração:
 
-**Síntese:** conexão entre teoria e execução prática nas bancadas.
+### Estação 1 – Goniometria Articular Eletrônica (ROM)
+- medição de amplitude de movimento;
+- uso de IMU;
+- visualização em tempo real no display.
 
-**Integração interdisciplinar:** alunos de tecnologia e profissionais de saúde podem colaborar em projetos futuros.
+### Estação 2 – Mapeamento de Pressão Plantar e Preensão
+- utilização de FSR e ADS1115;
+- análise de carga e distribuição de força;
+- aplicação na análise funcional e no suporte à reabilitação.
 
-**Próximos passos:**
-- aprofundar estudos em controle e sensores;
-- estreitar parcerias clínicas;
-- ampliar desenvolvimento de protótipos e projetos do GEB.
+### Estação 3 – Órtese Ativa e Garra Assistiva
+- acionamento por intenção de força;
+- uso de servomotor e lógica de controle;
+- aplicação à assistência motora e à interação humano-máquina.
 
 ---
 
-## Resumo da apresentação
+## Slide 12 – Conclusão
+A biomecatrônica conecta engenharia, saúde e tecnologia em soluções voltadas à reabilitação, à assistência e à melhora da funcionalidade humana.
 
-A biomecatrônica conecta engenharia, saúde e reabilitação em sistemas inteligentes que interagem diretamente com o corpo humano. A partir de sensoriamento, processamento e atuação, é possível desenvolver soluções que ampliam a funcionalidade, o cuidado e a qualidade de vida de pessoas com necessidades específicas.
+O workshop reforça a importância de uma abordagem interdisciplinar, em que estudantes de engenharia e profissionais de saúde possam colaborar no desenvolvimento de tecnologias relevantes para a prática clínica e para a inovação.
+
+Próximos passos:
+- aprofundar estudos em sensores e controle;
+- ampliar projetos do GEB;
+- fortalecer parcerias institucionais;
+- desenvolver protótipos e atividades práticas integradas.
+
+---
+
+## Slide 13 – Encerramento
+A biomecatrônica representa uma área estratégica para a formação acadêmica e a inovação em saúde.
+
+O GEB se propõe a consolidar esse campo no IFRN Campus Parnamirim, promovendo pesquisa, educação e desenvolvimento tecnológico em uma perspectiva aplicada e colaborativa.
