@@ -19,11 +19,10 @@ Qualquer estudante, docente, pesquisador ou profissional vinculado ao IFRN ou a 
 
 ## Como ingressar no grupo
 
-1. Entre em contato com a coordenação do GEB;
-2. Solicite participação em reuniões, workshops ou grupos de estudo;
-3. Acompanhe o calendário e as atividades divulgadas no repositório;
-4. Escolha uma linha de atuação ou projeto de interesse;
-5. Participe dos encontros e contribua com materiais, notas e estudos.
+1. Mantenha-se atualizado sobre as notícias divulgadas pelo grupo nos canais oficiais;
+2. Inscreva-se nas chamadas para participação em workshops ou para fazer parte da equipe;
+3. Aguarde o resultado da chamada confirmando sua inscrição a depender dos requisitos e do quantitativo de vagas;
+4. Acompanhe o calendário e as atividades divulgadas no repositório.
 
 ---
 
@@ -53,7 +52,7 @@ A participação no GEB pressupõe:
 - interesse em aprender e ensinar;
 - compromisso com a colaboração acadêmica;
 - respeito à produção de conhecimento coletivo;
-- contribuição para a evolução dos projetos e debates do grupo.
+- contribuição para a evolução dos projetos e dos debates do grupo.
 
 ---
 
