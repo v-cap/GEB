@@ -10,15 +10,15 @@
 
 O Grupo de Estudos em Biomecatrônica (GEB) é uma iniciativa acadêmico-científica vinculada ao NOCS LAB do IFRN Campus Parnamirim, com foco na formação de estudantes e servidores nas áreas de biomecatrônica, neuroengenharia, instrumentação biomédica e tecnologias aplicadas à saúde.
 
-A proposta do GEB nasce a partir das experiências e dos projetos já desenvolvidos no campus em áreas relacionadas a neuroestimulação, aquisição de sinais biomecânicos e fisiológicos, sistemas embarcados, análise de dados, jogos sérios e tecnologias assistivas.
+A proposta do GEB nasce a partir das experiências e dos projetos já desenvolvidos no campus, em áreas relacionadas à neuroestimulação, à aquisição de sinais biomecânicos e fisiológicos, a sistemas embarcados, à análise de dados, a jogos sérios e a tecnologias assistivas.
 
-O grupo busca consolidar um ambiente de estudo e pesquisa capaz de aproximar estudantes dos desafios reais da pesquisa aplicada, preparando equipes para futuras atuações em projetos de inovação tecnológica e científica.
+O grupo busca consolidar um ambiente de estudo e pesquisa capaz de aproximar estudantes dos desafios reais da pesquisa aplicada, preparando equipes para futuras atuações em projetos de inovação tecnológica e científica com impacto social.
 
 ---
 
 ## Missão
 
-Promover a formação de estudantes e servidores em biomecatrônica por meio de atividades de estudo, experimentação tecnológica e desenvolvimento de projetos aplicados à saúde, reabilitação e neuroengenharia.
+Promover a formação de estudantes e servidores em biomecatrônica por meio de atividades de estudo, experimentação tecnológica e desenvolvimento de projetos aplicados à saúde, à reabilitação e à neuroengenharia.
 
 ## Visão
 
@@ -36,9 +36,9 @@ Criar um ambiente permanente de formação e desenvolvimento de competências em
 - Capacitar estudantes em instrumentação biomecatrônica;
 - Desenvolver competências em aquisição e processamento de sinais biológicos;
 - Incentivar a participação em projetos de pesquisa e extensão;
-- Fortalecer a parceria entre IFRN e IIN-ELS/ISD;
+- Fortalecer a parceria entre IFRN, IIN-ELS/ISD e UFRN;
 - Preparar estudantes para desafios científicos e tecnológicos nacionais e internacionais;
-- Apoiar a evolução de projetos segundo os níveis de maturidade tecnológica (TRL).
+- Apoiar a evolução de projetos de acordo com os níveis de maturidade tecnológica (TRL).
 
 ---
 
@@ -53,7 +53,8 @@ Objetivos:
 - aquisição de dados de pressão plantar;
 - análise biomecânica da marcha;
 - apoio a pesquisas em reabilitação motora;
-- desenvolvimento de algoritmos para processamento de dados.
+- desenvolvimento de algoritmos para processamento de dados;
+- apoio às pesquisas desenvolvidas junto ao IIN-ELS e à UFRN.
 
 ### 2. Neuroengenharia e Neuroestimulação
 
@@ -74,7 +75,8 @@ Objetivos:
 - desenvolvimento de aplicações interativas;
 - integração com sensores biomecânicos;
 - análise de desempenho do usuário;
-- apoio à reabilitação motora e cognitiva.
+- apoio à reabilitação motora e cognitiva;
+- apoio às pesquisas desenvolvidas junto ao IIN-ELS.
 
 ---
 
@@ -105,6 +107,7 @@ GEB/
 ├── changelog.md
 ├── logo/
 │   └── geb_logo.svg
+│   └── logo_v1.svg
 ├── docs/
 │   ├── calendario.md
 │   ├── guia-participacao.md
@@ -161,8 +164,8 @@ Para orientar a participação, consulte:
 **Instituição:** IFRN Campus Parnamirim  
 **Laboratório vinculante:** NOCS LAB
 
-A colaboração pode ser realizada por meio do repositório, encontros de estudo, seminários e projetos em andamento.
+A colaboração pode ser realizada por meio do repositório, de encontros de estudo, de seminários e de projetos em andamento.
 
 ---
 
-Última atualização: Outubro de 2026.
+Última atualização: outubro de 2026.
