@@ -1,5 +1,5 @@
 # Atividades do Workshop 1
-
+<!--
 ## Registro do evento
 
 Este arquivo pode ser usado para registrar as principais atividades, presença, materiais usados e observações do primeiro workshop do GEB.
@@ -30,3 +30,4 @@ Crie arquivos adicionais conforme a necessidade, por exemplo:
 - `participantes.md`
 - `feedback.md`
 - `material-de-apoio.md`
+-->
