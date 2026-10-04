@@ -1,71 +1,87 @@
 # GEB – Grupo de Estudos em Biomecatrônica
 
-![GEB Logo](logo/geb_logo.png)
+![GEB Logo](logo/geb_logo.svg)
 
 **Vinculado ao NOCS LAB – IFRN Campus Parnamirim**
 
 ---
 
-## 📋 Apresentação
+## Apresentação
 
-O **Grupo de Estudos em Biomecatrônica (GEB)** é uma iniciativa acadêmico-científica voltada à formação de estudantes e servidores nas áreas de biomecatrônica, neuroengenharia e tecnologias aplicadas à saúde.
+O Grupo de Estudos em Biomecatrônica (GEB) é uma iniciativa acadêmico-científica vinculada ao NOCS LAB do IFRN Campus Parnamirim, com foco na formação de estudantes e servidores nas áreas de biomecatrônica, neuroengenharia, instrumentação biomédica e tecnologias aplicadas à saúde.
 
-O GEB surge a partir de experiências desenvolvidas pelo IFRN Campus Parnamirim em parceria com o **Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS)** e o **Instituto Santos Dumont (ISD)**, envolvendo:
+A proposta do GEB nasce a partir das experiências e dos projetos já desenvolvidos no campus em áreas relacionadas a neuroestimulação, aquisição de sinais biomecânicos e fisiológicos, sistemas embarcados, análise de dados, jogos sérios e tecnologias assistivas.
 
-- Dispositivos de neuroestimulação
-- Hardware para aquisição de dados biomecânicos e fisiológicos
-- Ambientes virtuais de reabilitação
-- Jogos sérios para aplicações clínicas
+O grupo busca consolidar um ambiente de estudo e pesquisa capaz de aproximar estudantes dos desafios reais da pesquisa aplicada, preparando equipes para futuras atuações em projetos de inovação tecnológica e científica.
 
 ---
 
-## 🎯 Missão, Visão e Objetivos
+## Missão
 
-### Missão
 Promover a formação de estudantes e servidores em biomecatrônica por meio de atividades de estudo, experimentação tecnológica e desenvolvimento de projetos aplicados à saúde, reabilitação e neuroengenharia.
 
-### Visão
+## Visão
+
 Tornar-se referência institucional em formação interdisciplinar em biomecatrônica, contribuindo para a criação futura de projetos de pesquisa, inovação e transferência tecnológica no IFRN.
 
-### Objetivo Geral
+## Objetivo Geral
+
 Criar um ambiente permanente de formação e desenvolvimento de competências em biomecatrônica, integrando ensino, pesquisa aplicada e inovação tecnológica.
 
-### Objetivos Específicos
-- ✓ Promover grupos de estudo em biomecatrônica
-- ✓ Realizar seminários técnicos e científicos
-- ✓ Divulgar tecnologias aplicadas à saúde
-- ✓ Capacitar estudantes em instrumentação biomecatrônica
-- ✓ Desenvolver competências em aquisição e processamento de sinais biológicos
-- ✓ Incentivar a participação em projetos de pesquisa e extensão
-- ✓ Fortalecer a parceria entre IFRN e IIN-ELS/ISD
-- ✓ Preparar estudantes para desafios científicos nacionais e internacionais
-- ✓ Apoiar a evolução de projetos conforme os níveis de Maturidade Tecnológica (TRL)
+## Objetivos Específicos
+
+- Promover grupos de estudo em biomecatrônica;
+- Realizar seminários técnicos e científicos;
+- Divulgar tecnologias aplicadas à saúde;
+- Capacitar estudantes em instrumentação biomecatrônica;
+- Desenvolver competências em aquisição e processamento de sinais biológicos;
+- Incentivar a participação em projetos de pesquisa e extensão;
+- Fortalecer a parceria entre IFRN e IIN-ELS/ISD;
+- Preparar estudantes para desafios científicos e tecnológicos nacionais e internacionais;
+- Apoiar a evolução de projetos segundo os níveis de maturidade tecnológica (TRL).
 
 ---
 
-## 🔬 Linhas de Atuação
+## Linhas de Atuação
 
-### Linha 1: Análise Biomecânica e Reabilitação
-**Projeto:** Palmilha Instrumentada  
-**TRL Atual:** 3–5  
-Aquisição de dados de pressão plantar, análise biomecânica da marcha e suporte a pesquisas em reabilitação motora.
+### 1. Análise Biomecânica e Reabilitação
 
-### Linha 2: Neuroengenharia e Neuroestimulação
-**Projeto:** Neuroestimulador  
-**TRL Atual:** 4–6  
-Desenvolvimento de fontes de microcorrentes e investigação de protocolos de estimulação.
+Projeto associado: Palmilha Instrumentada  
+TRL estimado: 3 a 5
 
-### Linha 3: Jogos Sérios e Tecnologias Digitais para Reabilitação
-**Projeto:** Jogos Sérios  
-**TRL Atual:** 2–5  
-Desenvolvimento de aplicações interativas integradas com sensores biomecânicos para reabilitação motora e cognitiva.
+Objetivos:
+- aquisição de dados de pressão plantar;
+- análise biomecânica da marcha;
+- apoio a pesquisas em reabilitação motora;
+- desenvolvimento de algoritmos para processamento de dados.
+
+### 2. Neuroengenharia e Neuroestimulação
+
+Projeto associado: Neuroestimulador  
+TRL estimado: 4 a 6
+
+Objetivos:
+- desenvolvimento de fontes de microcorrentes;
+- investigação de protocolos de estimulação;
+- apoio às pesquisas desenvolvidas junto ao IIN-ELS.
+
+### 3. Jogos Sérios e Tecnologias Digitais para Reabilitação
+
+Projeto associado: Jogos Sérios  
+TRL estimado: 2 a 5
+
+Objetivos:
+- desenvolvimento de aplicações interativas;
+- integração com sensores biomecânicos;
+- análise de desempenho do usuário;
+- apoio à reabilitação motora e cognitiva.
 
 ---
 
-## 👥 Equipe
+## Estrutura Organizacional
 
 ### Coordenação
-- **Prof. Me. Victor Costa de Andrade Pimentel** – Coordenador
+- Prof. Me. Victor Costa de Andrade Pimentel
 
 ### Colaboração Interna
 - Prof. Dr. Gustavo Fernandes de Lima
@@ -79,78 +95,74 @@ Desenvolvimento de aplicações interativas integradas com sensores biomecânico
 
 ---
 
-## 📅 Calendário Semestral
+## Estrutura do Repositório
 
-Acompanhe as atividades, workshops e eventos do GEB no nosso [Calendário de Atividades](docs/calendario.md).
-
----
-
-## 📚 Estrutura do Repositório
-
-```
+```text
 GEB/
-├── README.md                          # Este arquivo
-├── PROPOSTA.md                        # Proposta formalizada do GEB
-├── CONTRIBUINDO.md                    # Guia de contribuição
+├── README.md
+├── PROPOSTA.md
+├── CONTRIBUTING.md
+├── changelog.md
 ├── logo/
-│   └── geb_logo.png                  # Logomarca oficial
+│   └── geb_logo.svg
 ├── docs/
-│   ├── calendario.md                  # Calendário de eventos e workshops
-│   ├── guia-participacao.md           # Como participar do GEB
-│   └── trl-roadmap.md                 # Maturidade tecnológica dos projetos
+│   ├── calendario.md
+│   ├── guia-participacao.md
+│   └── trl-roadmap.md
 ├── projects/
-│   ├── palmilha-instrumentada/        # Linha 1: Análise Biomecânica
-│   ├── neuroestimulador/              # Linha 2: Neuroengenharia
-│   └── jogos-serios/                  # Linha 3: Tecnologias Digitais
+│   ├── README.md
+│   ├── palmilha-instrumentada/
+│   │   └── README.md
+│   ├── neuroestimulador/
+│   │   └── README.md
+│   └── jogos-serios/
+│       └── README.md
 ├── seminarios/
-│   ├── 2026-10/                       # Workshops e seminários
-│   └── notas/
+│   └── README.md
 ├── leituras/
-│   ├── core/                          # Leituras fundamentais
-│   ├── avancado/                      # Leituras avançadas
-│   └── README.md                      # Lista de referências
+│   └── README.md
 ├── recursos/
-│   ├── templates/                     # Modelos para relatórios, apresentações
-│   ├── ferramentas.md                 # Software e equipamentos
-│   └── links.md                       # Recursos online
-└── changelog.md                       # Histórico e milestones do GEB
+│   ├── README.md
+│   ├── ferramentas.md
+│   └── templates/
+└── .github/
+    └── workflows/
 ```
 
 ---
 
-## 🚀 Como Começar
+## Calendário de Atividades
 
-### Participar do GEB
-1. Consulte [Como Participar](docs/guia-participacao.md)
-2. Inscreva-se nos workshops e seminários
-3. Explore os projetos nas [três linhas de atuação](#-linhas-de-atuação)
-
-### Contribuir com o Repositório
-Veja [CONTRIBUINDO.md](CONTRIBUINDO.md) para diretrizes sobre como contribuir com documentação, código e projetos.
-
-### Acessar Materiais
-- 📖 [Lista de Leituras](leituras/README.md)
-- 🔧 [Ferramentas e Recursos](recursos/ferramentas.md)
-- 📋 [Modelos e Templates](recursos/templates/)
+O plano de atividades do GEB pode ser acompanhado em [docs/calendario.md](docs/calendario.md).
 
 ---
 
-## 📞 Contato e Parcerias
+## Como Participar
 
-**Instituição:** IFRN Campus Parnamirim | NOCS LAB  
-**Parceiros Principais:** Instituto Santos Dumont (ISD) | Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS)
+Estudantes, docentes e pesquisadores interessados podem participar do GEB por meio de workshops, seminários, grupos de estudo e projetos em desenvolvimento.
 
-Para dúvidas, sugestões ou parcerias, entre em contato com a coordenação do GEB.
-
----
-
-## 📄 Documentos Oficiais
-
-- [Proposta Formalizada do GEB](PROPOSTA.md)
-- [Changelog e Milestones](changelog.md)
-- [Roadmap de Maturidade Tecnológica (TRL)](docs/trl-roadmap.md)
+Para orientar a participação, consulte:
+- [docs/guia-participacao.md](docs/guia-participacao.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-**Lançamento Oficial:** 01 de outubro de 2026  
-**Última atualização:** Outubro de 2026
+## Documentos Oficiais
+
+- [PROPOSTA.md](PROPOSTA.md)
+- [docs/calendario.md](docs/calendario.md)
+- [docs/trl-roadmap.md](docs/trl-roadmap.md)
+- [changelog.md](changelog.md)
+
+---
+
+## Contato
+
+**Instituição:** IFRN Campus Parnamirim  
+**Laboratório vinculante:** NOCS LAB
+
+A colaboração pode ser realizada por meio do repositório, encontros de estudo, seminários e projetos em andamento.
+
+---
+
+Última atualização: Outubro de 2026.
