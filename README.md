@@ -161,8 +161,8 @@ Para orientar a participação, consulte:
 
 ## Contato
 
-**Instituição:** [https://portal.ifrn.edu.br/campus/parnamirim/](IFRN Campus Parnamirim)
-**Laboratório vinculante:** [https://nocs.ifrn.edu.br/](NOCS LAB)
+**Instituição:** [IFRN Campus Parnamirim](https://portal.ifrn.edu.br/campus/parnamirim/)
+**Laboratório vinculante:** [NOCS LAB](https://nocs.ifrn.edu.br/)
 
 A colaboração pode ser realizada por meio do repositório, de encontros de estudo, de seminários e de projetos em andamento.
 
