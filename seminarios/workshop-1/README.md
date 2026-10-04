@@ -2,65 +2,71 @@
 
 ## Informações gerais
 
-- Data: 15/10/2026
+- Data: 15 de outubro de 2026
 - Modalidade: I Workshop do GEB - Introdução à Biomecatrônica
-- Local / formato: Laboratório de Ensino Híbrido (LABEH) / Presencial
-- Público: estudantes, docentes e profissionais interessados em biomecatrônica, neuroengenharia e tecnologias aplicadas à saúde
+- Organização: Grupo de Estudos em Biomecatrônica (GEB)
+- Vinculação: NOCS LAB – IFRN Campus Parnamirim
+- Público-alvo: estudantes, docentes, pesquisadores e profissionais interessados em biomecatrônica, neuroengenharia, tecnologias assistivas e reabilitação.
 
-## Objetivo do workshop
+## Apresentação
 
-Apresentar a visão geral do GEB, os temas centrais da biomecatrônica e a integração dos conceitos de engenharia e de tecnologia mecatrônica com a prática clínica de reabilitação motora e de saúde funcional.
+O Workshop 1 do GEB tem como objetivo apresentar os fundamentos da biomecatrônica, conectar teoria e prática por meio de experiências laboratoriais e discutir aplicações em saúde, reabilitação e tecnologias assistivas. O encontro também busca estimular a participação em futuras atividades, projetos e estudos colaborativos.
 
-## Objetivos específicos
+## Objetivos
 
-- apresentar a proposta do GEB e sua articulação com o NOCS LAB;
-- contextualizar a biomecatrônica como campo interdisciplinar;
-- discutir aplicações em reabilitação, neuroengenharia e tecnologias assistivas;
-- identificar interesses e perfis para futuras atividades do GEB.
+- apresentar a proposta e a estrutura do GEB;
+- contextualizar a biomecatrônica como área interdisciplinar;
+- discutir a relação entre engenharia, saúde e reabilitação;
+- introduzir conceitos de sensoriamento, processamento de sinais e atuação robótica;
+- estimular a integração entre estudantes, docentes e parceiros institucionais.
 
 <!--
+## Conteúdos abordados
+
+- conceito e origem da biomecatrônica;
+- integração entre engenharia, saúde e reabilitação;
+- sensores fisiológicos e biomecânicos;
+- processamento e condicionamento de sinais;
+- bancada prática com demonstrações de instrumentação e de atuação.
+
 ## Agenda sugerida
 
 | Horário | Atividade | Descrição |
 |--------|-----------|-----------|
-| 09:00–09:20 | Abertura | Boas-vindas, apresentação do GEB e objetivos do encontro |
-| 09:20–09:50 | Contextualização | Biomecatrônica, neuroengenharia e tecnologias aplicadas à saúde |
+| 09:00–09:20 | Abertura | Apresentação do GEB e objetivos do encontro |
+| 09:20–09:50 | Conceitos iniciais | Biomecatrônica, neuroengenharia e tecnologias aplicadas à saúde |
 | 09:50–10:30 | Linhas de atuação | Visão geral dos projetos e campos de pesquisa |
 | 10:30–10:45 | Pausa | Intervalo |
-| 10:45–11:30 | Projetos do GEB | Apresentação das linhas em desenvolvimento |
-| 11:30–12:00 | Discussão | Interação, dúvidas e propostas de participação |
-| 12:00–12:15 | Encerramento | Próximas etapas e próximos encontros |
+| 10:45–11:30 | Bancadas práticas | Demonstração de sensores, instrumentação e atuação |
+| 11:30–12:00 | Discussão | Dúvidas, contribuições e sugestões de atividades futuras |
+| 12:00–12:15 | Encerramento | Próximos passos e continuidade do GEB |
 
+## Bancadas práticas
 
-## Conteúdos principais
+O workshop contará com uma estrutura prática organizada em três estações:
 
-- conceito e escopo da biomecatrônica;
-- integração entre mecânica, eletrônica, computação, saúde e reabilitação;
-- sensores e instrumentação biomédica;
-- sinais fisiológicos e biomecânicos;
-- neuroengenharia e estimulação;
-- tecnologias assistivas e sistemas de reabilitação;
-- jogos sérios e ambientes digitais aplicados à saúde.
+1. Goniometria Articular Eletrônica (ROM)
+2. Mapeamento de Pressão Plantar e Preensão
+3. Órtese Ativa e Garra Assistiva em Malha Fechada
 
-## Atividades propostas
-
-- apresentação institucional do GEB;
-- discussão de conceitos fundamentais;
-- levantamento de interesses dos participantes;
-- mapeamento inicial de temas para grupos de estudo;
-- identificação de possíveis colaborações em projetos.
+Essas estações demonstram como sistemas de sensoriamento, microcontroladores e atuadores podem ser integrados para apoiar reabilitação e assistência tecnológica.
 
 ## Materiais de apoio
 
-- proposta do grupo em [PROPOSTA.md](../../PROPOSTA.md)
-- leitura inicial do GEB em [README.md](../../README.md)
-- visão geral das linhas de atuação em [projects/README.md](../../projects/README.md)
+- [Proposta do GEB](../../PROPOSTA.md)
+- [README do Repositório](../../README.md)
+- [Projetos do GEB](../../projects/README.md)
+- [Roadmap de TRL](../../docs/trl-roadmap.md)
 
-## Resultado esperado
+## Resultados esperados
 
-Ao fim do workshop, espera-se que os participantes compreendam a proposta do GEB, reconheçam as áreas de atuação do grupo e se sintam estimulados a contribuir com atividades futuras em estudos, projetos e eventos.
+Ao final do workshop, espera-se que os participantes:
+- compreendam o papel da biomecatrônica na reabilitação e na saúde;
+- reconheçam as áreas de atuação do GEB;
+- conectem teoria e prática por meio das bancadas experimentais;
+- se interessem por projetos futuros, encontros, grupos de estudo e colaborações interdisciplinares.
 
 ## Registro e continuidade
 
-Os materiais, slides, anotações e feedback do workshop devem ser armazenados nesta pasta, servindo de base para futuros encontros e para o histórico de desenvolvimento do grupo.
+Os materiais do workshop devem ser organizados em pastas específicas para documentação, registro de presença, feedback e avanços futuros. Essa estrutura servirá de base para a consolidação de novas edições do evento e para a expansão das atividades do grupo.
 -->
