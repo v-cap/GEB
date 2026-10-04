@@ -7,8 +7,7 @@ Este documento organiza as principais atividades do Grupo de Estudos em Biomecat
 ## 2026
 
 ### Outubro
-- 01/10/2026 – Lançamento oficial do GEB
-- 01 a 09/10/2026 – Recrutamento de participantes
+- 05 a 09/10/2026 – Lançamento oficial do GEB e recrutamento de participantes
 - 13/10/2026 – Inscrições na mostra científica do ISD
 - 15/10/2026 – I Workshop do GEB: Introdução à Biomecatrônica
 - 26/10/2026 – Participação na mostra científica do ISD
@@ -17,7 +16,7 @@ Este documento organiza as principais atividades do Grupo de Estudos em Biomecat
 ### Novembro
 - 12/11/2026 – Seminário sobre Neuroengenharia
 - 16/11/2026 – Prazo para inscrições na feira de ciências do ISD
-- 26 e 27/11/2026 – Apresentação em feira de ciências do ISD
+- 26 e 27/11/2026 – Apresentação na feira de ciências do ISD
 
 ### Dezembro
 - 10/12/2026 – III Workshop do GEB: Introdução ao processamento de sinais e encerramento das atividades de 2026
@@ -36,5 +35,5 @@ Este documento organiza as principais atividades do Grupo de Estudos em Biomecat
 
 ## Observações
 
-- O calendário pode ser ajustado conforme disponibilidade dos participantes, calendário acadêmico e cronograma institucional.
+- O calendário pode ser ajustado conforme a disponibilidade dos participantes, o calendário acadêmico e o cronograma institucional.
 - Novas atividades podem ser adicionadas em função de projetos em andamento, eventos e convites externos.
