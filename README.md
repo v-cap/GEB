@@ -1,6 +1,6 @@
 # GEB – Grupo de Estudos em Biomecatrônica
 
-![GEB Logo](logo/geb_logo.svg)
+![GEB Logo](logo/logo_v1.svg)
 
 **Vinculado ao NOCS LAB – IFRN Campus Parnamirim**
 
