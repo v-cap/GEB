@@ -4,7 +4,7 @@
 
 - Título: Grupo de Estudos em Biomecatrônica (GEB)
 - Sigla: GEB
-- Vinculação Institucional: Grupo de Pesquisa em Mecatrônica (GPMEC) - NOCS LAB – IFRN Campus Parnamirim
+- Vinculação Institucional: Grupo de Pesquisa em Mecatrônica (GPMEC) – NOCS LAB – IFRN Campus Parnamirim
 - Área de Atuação:
   - Biomecatrônica
   - Neuroengenharia
