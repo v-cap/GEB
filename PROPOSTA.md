@@ -4,7 +4,7 @@
 
 - Título: Grupo de Estudos em Biomecatrônica (GEB)
 - Sigla: GEB
-- Vinculação Institucional: NOCS LAB – IFRN Campus Parnamirim
+- Vinculação Institucional: Grupo de Pesquisa em Mecatrônica (GPMEC) - NOCS LAB – IFRN Campus Parnamirim
 - Área de Atuação:
   - Biomecatrônica
   - Neuroengenharia
@@ -15,7 +15,6 @@
 - Instituições Parceiras:
   - IFRN Campus Parnamirim
   - Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS/ISD)
-  - Instituto Santos Dumont (ISD)
 - Coordenação Proposta:
   - Prof. Me. Victor Costa de Andrade Pimentel
 - Colaboração Interna:
@@ -146,12 +145,12 @@ A identidade visual do GEB deve refletir a integração entre ser humano, tecnol
 - Consolidação institucional do GEB;
 - Ampliação das ações com o IIN-ELS/ISD;
 - Desenvolvimento de novos projetos de iniciação científica;
-- Participação em eventos nacionais e internacionais;
+- Publicação dos resultados em pelo menos 1 evento ou periódico nacional ou internacional por projeto de pesquisa;
 - Evolução dos projetos existentes para níveis superiores de maturidade tecnológica (TRL);
-- Criação de bases para um futuro grupo de pesquisa em biomecatrônica do IFRN.
+- Criação de bases para um futuro Laboratório de Biomecatrônica do NOCS/IFRN.
 
 ---
 
 ## 15. Encerramento
 
-A criação do GEB representa uma oportunidade estratégica para fortalecer o ensino, a pesquisa aplicada e a inovação tecnológica no IFRN Campus Parnamirim. O grupo oferece um espaço de estudo e cooperação para o desenvolvimento de soluções voltadas à saúde, reabilitação e neuroengenharia, contribuindo para a formação de uma nova geração de profissionais e pesquisadores.
+A criação do GEB representa uma oportunidade estratégica para fortalecer o ensino, a pesquisa aplicada e a inovação tecnológica no IFRN Campus Parnamirim. O grupo oferece um espaço de estudo e cooperação para o desenvolvimento de soluções voltadas à saúde, à reabilitação e à neuroengenharia, contribuindo para a formação de uma nova geração de profissionais e pesquisadores.
