@@ -11,7 +11,10 @@ A seguir, uma visão geral de categorias de ferramentas relevantes para o GEB.
   - Arduino
 - sensores biomecânicos;
   - Sensores FSR
+    - [Sensor de pressão, membrana resistiva FSR402](https://www.smartkits.com.br/sensor-de-pressao-membrana-resistiva-fsr402)
+    - [Sensor de pressão, membrana resistiva FSR402, perna curta](https://www.smartkits.com.br/sensor-de-pressao-membrana-resistiva-fsr402-perna-curta)
   - IMUs
+    - Módulo GY-521 [MPU-6000/MPU-6050 da InvenSense/TDK](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)
 - módulos de aquisição de sinais;
 - eletrônica de potência e condicionamento de sinal.
 
