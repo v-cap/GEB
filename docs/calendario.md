@@ -8,6 +8,7 @@ Este documento organiza as principais atividades do Grupo de Estudos em Biomecat
 
 ### Outubro
 - 05 a 09/10/2026 – Lançamento oficial do GEB e recrutamento de participantes
+<!--
 - 13/10/2026 – Inscrições na mostra científica do ISD
 - 15/10/2026 – I Workshop do GEB: Introdução à Biomecatrônica
 - 26/10/2026 – Participação na mostra científica do ISD
@@ -30,7 +31,7 @@ Este documento organiza as principais atividades do Grupo de Estudos em Biomecat
 
 ### Março
 - Data a definir – I Mostra interna de resultados do GEB
-
+-->
 ---
 
 ## Observações
