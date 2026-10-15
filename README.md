@@ -8,17 +8,17 @@
 
 ## Apresentação
 
-O Grupo de Estudos em Biomecatrônica (GEB) é uma iniciativa acadêmico-científica vinculada ao NOCS LAB do IFRN Campus Parnamirim, com foco na formação de estudantes e servidores nas áreas de biomecatrônica, neuroengenharia, instrumentação biomédica e tecnologias aplicadas à saúde.
+O Grupo de Estudos em Biomecatrônica (GEB) é uma iniciativa acadêmico-científica-cultural do Grupo de Pesquisa em Mecatrônica (GPMEC), vinculado ao Laboratório de Pesquisa em Redes e Sistemas Computacionais (NOCS LAB) do IFRN Campus Parnamirim. 
 
-A proposta do GEB nasce a partir das experiências e dos projetos já desenvolvidos no campus, em áreas relacionadas à neuroestimulação, à aquisição de sinais biomecânicos e fisiológicos, a sistemas embarcados, à análise de dados, a jogos sérios e a tecnologias assistivas.
+O GEB surge a partir de experiências de desenvolvimento de projetos pelo IFRN Campus Parnamirim em parceria com o Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS) do Instituto Santos Dumont (ISD), envolvendo dispositivos de neuroestimulação ​[1]​, hardware para aquisição de dados biomecânicos e fisiológicos ​[2], [3]​, ambientes virtuais de reabilitação e jogos sérios ​[4]​. 
 
-O grupo busca consolidar um ambiente de estudo e pesquisa capaz de aproximar estudantes dos desafios reais da pesquisa aplicada, preparando equipes para futuras atuações em projetos de inovação tecnológica e científica com impacto social.
+A proposta busca consolidar um ambiente de formação técnica, científica e cultural, de caráter multidisciplinar, capaz de aproximar estudantes dos desafios reais da pesquisa aplicada e de preparar equipes para atuação futura em projetos de inovação e desenvolvimento tecnológico com impacto social nas áreas de biomecatrônica, neuroengenharia, instrumentação biomédica, tecnologias assistivas, robótica e jogos sérios aplicados à reabilitação. 
 
 ---
 
 ## Missão
 
-Promover a formação de estudantes e servidores em biomecatrônica por meio de atividades de estudo, experimentação tecnológica e desenvolvimento de projetos aplicados à saúde, à reabilitação e à neuroengenharia.
+Promover a formação de estudantes, servidores e profissionais de saúde em biomecatrônica por meio de atividades de estudo, formação, experimentação tecnológica e desenvolvimento de projetos com impacto social aplicados à inclusão, à saúde, à reabilitação e à neuroengenharia.
 
 ## Visão
 
@@ -26,11 +26,11 @@ Tornar-se referência institucional em formação interdisciplinar em biomecatr�
 
 ## Objetivo Geral
 
-Criar um ambiente permanente de formação e desenvolvimento de competências em biomecatrônica, integrando ensino, pesquisa aplicada e inovação tecnológica.
+Criar um ambiente permanente de formação e desenvolvimento de competências em biomecatrônica, integrando ensino, pesquisa aplicada, inovação e desenvolvimento tecnológico.
 
 ## Objetivos Específicos
 
-- Promover grupos de estudo em biomecatrônica;
+- Promover estudos em biomecatrônica;
 - Realizar seminários técnicos e científicos;
 - Divulgar tecnologias aplicadas à saúde;
 - Capacitar estudantes em instrumentação biomecatrônica;
@@ -43,6 +43,8 @@ Criar um ambiente permanente de formação e desenvolvimento de competências em
 ---
 
 ## Linhas de Atuação
+
+Considerando os recursos, equipamentos e experiências atualmente disponíveis, o GEB concentrará inicialmente suas atividades em três linhas principais.
 
 ### 1. Análise Biomecânica e Reabilitação
 
@@ -80,19 +82,48 @@ Objetivos:
 
 ---
 
+## Metodologia
+
+O funcionamento do GEB será baseado em encontros periódicos organizados em quatro etapas. 
+
+### Etapa 1 – Formação 
+- estudos orientados;
+- discussão de artigos;
+- apresentação de seminários;
+- capacitações técnicas. 
+
+## Etapa 2 – Experimentação
+- montagem de protótipos;
+- utilização de equipamentos disponíveis;
+- testes laboratoriais. 
+
+## Etapa 3 – Desenvolvimento 
+- aprimoramento de dispositivos;
+- integração hardware-software;
+- documentação técnica. 
+
+## Etapa 4 – Divulgação 
+- apresentações técnicas;
+- participação em eventos;
+- submissão de trabalhos;
+- divulgação institucional.
+
+---
+
 ## Estrutura Organizacional
 
 ### Coordenação
 - Prof. Me. Victor Costa de Andrade Pimentel
 
 ### Colaboração Interna
-- Prof. Dr. Gustavo Fernandes de Lima
 - Prof. Me. Diego Henrique Oliveira de Souza
+- Prof. Dr. Gustavo Fernandes de Lima
+- Prof. Dr. Jefferson Doolan Fernandes
 
 ### Colaboração Externa
 - Prof. Dr. André Felipe Oliveira de Azevedo Dantas (IIN-ELS/ISD)
 - Prof. Dr. Gabriel Alves Vasiljevic Mendes (IIN-ELS/ISD)
-- Profª. Drª. Caroline Cunha do Espírito Santo
+- Profª. Drª. Caroline Cunha do Espírito Santo (IIN-ELS/ISD)
 - Me. Christian Lang Rathke (Doutorando/USP)
 
 ---
