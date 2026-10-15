@@ -8,17 +8,17 @@
 
 ## Apresentação
 
-O Grupo de Estudos em Biomecatrônica (GEB) é uma iniciativa acadêmico-científica-cultural do Grupo de Pesquisa em Mecatrônica (GPMEC), vinculado ao Laboratório de Pesquisa em Redes e Sistemas Co[...]
+O Grupo de Estudos em Biomecatrônica (GEB) é uma iniciativa acadêmico-científica-cultural do Grupo de Pesquisa em Mecatrônica (GPMEC), vinculado ao Laboratório de Pesquisa em Redes e Sistemas Computacionais (NOCS LAB) do IFRN Campus Parnamirim. 
 
-O GEB surge a partir de experiências de desenvolvimento de projetos pelo IFRN Campus Parnamirim em parceria com o Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS) do Instituto [...]
+O GEB surge a partir de experiências de desenvolvimento de projetos pelo IFRN Campus Parnamirim em parceria com o Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS) do Instituto Santos Dumont (ISD), envolvendo dispositivos de neuroestimulação ​[1]​, hardware para aquisição de dados biomecânicos e fisiológicos ​[2], [3]​, ambientes virtuais de reabilitação e jogos sérios ​[4]​. 
 
-A proposta busca consolidar um ambiente de formação técnica, científica e cultural, de caráter multidisciplinar, capaz de aproximar estudantes dos desafios reais da pesquisa aplicada e de prepara[...]
+A proposta busca consolidar um ambiente de formação técnica, científica e cultural, de caráter multidisciplinar, capaz de aproximar estudantes dos desafios reais da pesquisa aplicada e de preparar equipes para atuação futura em projetos de inovação e desenvolvimento tecnológico com impacto social nas áreas de biomecatrônica, neuroengenharia, instrumentação biomédica, tecnologias assistivas, robótica e jogos sérios aplicados à reabilitação. 
 
 ---
 
 ## Missão
 
-Promover a formação de estudantes, servidores e profissionais de saúde em biomecatrônica por meio de atividades de estudo, formação, experimentação tecnológica e desenvolvimento de projetos c[...]
+Promover a formação de estudantes, servidores e profissionais de saúde em biomecatrônica por meio de atividades de estudo, formação, experimentação tecnológica e desenvolvimento de projetos com impacto social aplicados à inclusão, à saúde, à reabilitação e à neuroengenharia.
 
 ## Visão
 
