@@ -31,7 +31,9 @@ A seguir, uma visão geral de categorias de ferramentas relevantes para o GEB.
 
 - GitHub para versionamento e documentação do grupo;
 - Markdown para relatórios e notas;
-- ferramentas de gestão de tarefas e acompanhamento de projetos.
+- ferramentas de gestão de tarefas e acompanhamento de projetos;
+- ferramentas de gestão de referências bibliográficas
+  - [Mendeley](https://www.mendeley.com/)
 
 ---
 
