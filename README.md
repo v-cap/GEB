@@ -10,7 +10,7 @@
 
 O Grupo de Estudos em Biomecatrônica (GEB) é uma iniciativa acadêmico-científica-cultural do Grupo de Pesquisa em Mecatrônica (GPMEC), vinculado ao Laboratório de Pesquisa em Redes e Sistemas Computacionais (NOCS LAB) do IFRN Campus Parnamirim. 
 
-O GEB surge a partir de experiências de desenvolvimento de projetos pelo IFRN Campus Parnamirim em parceria com o Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS) do Instituto Santos Dumont (ISD), envolvendo dispositivos de neuroestimulação ​[1]​, hardware para aquisição de dados biomecânicos e fisiológicos ​[2], [3]​, ambientes virtuais de reabilitação e jogos sérios ​[4]​. 
+O GEB surge a partir de experiências de desenvolvimento de projetos pelo IFRN Campus Parnamirim em parceria com o Instituto Internacional de Neurociências Edmond e Lily Safra (IIN-ELS) do Instituto Santos Dumont (ISD), envolvendo dispositivos de neuroestimulação ​[[1]](#[1]), hardware para aquisição de dados biomecânicos e fisiológicos ​[[2]](#[2]), [[3]](#[3])​, ambientes virtuais de reabilitação e jogos sérios [[4]](#[4])​. 
 
 A proposta busca consolidar um ambiente de formação técnica, científica e cultural, de caráter multidisciplinar, capaz de aproximar estudantes dos desafios reais da pesquisa aplicada e de preparar equipes para atuação futura em projetos de inovação e desenvolvimento tecnológico com impacto social nas áreas de biomecatrônica, neuroengenharia, instrumentação biomédica, tecnologias assistivas, robótica e jogos sérios aplicados à reabilitação. 
 
@@ -211,4 +211,18 @@ A colaboração pode ser realizada por meio do repositório, de encontros de est
 
 ---
 
+## Referências bibliográficas
+
+<a name="[1]"></a> [1] L. C. Barbosa, G. F. de Lima, V. C. de Andrade Pimentel, e A. F. O. de Azevedo Dantas, “Design and Evaluation of a Digitally Controlled Current Stimulator”, em 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET), IEEE, jul. 2026, p. 1–6. doi: 10.1109/ICECET65726.2026.11632487.
+
+<a name="[2]"></a> ​[2]	C. L. Rathke, V. C. de A. Pimentel, P. J. Alsina, C. C. do Espírito Santo, e A. F. O. de A. Dantas, “IoT-Based Wireless System for Gait Kinetics Monitoring in Multi-Device Therapeutic Interventions”, Sensors, vol. 24, no 17, p. 5799, set. 2024, doi: 10.3390/s24175799.
+
+<a name="[3]"></a> [3]	C. L. Rathke, V. C. A. Pimentel, C. C. do Espirito-Santo, G. A. M. Vasiljevic, e A. F. O. de A. Dantas, “Sensorimotor perturbation-induced cortical responses by a novel PES system: analysis of the N1 component in healthy adults and Parkinson’s disease”, Front. Hum. Neurosci., vol. 19, out. 2025, doi: 10.3389/fnhum.2025.1668367.
+
+<a name="[4]"></a> [4]	Arthur Tavares, Victor Pimentel, André Dantas, e Diego Henrique, “E-Tug-of-war: Um jogo Sério de Único ou Múltiplos jogadores para Estímulo de Habilidades Cognitivas e Motoras.”, em VII CONGRESSO BRASILEIRO DE NEUROMODULAÇÃO XI SIMPÓSIO DE NEUROENGENHARIA, Macaíba RN: Instituto Santos Dumont, out. 2025, p. 260–262. 
+
+---
 Última atualização: outubro de 2026.
+
+
+##
