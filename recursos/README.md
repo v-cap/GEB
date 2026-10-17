@@ -16,7 +16,7 @@ Este diretório registra ferramentas, materiais e referências úteis para o des
 
 ## Documentação geral
 
-- [ferramentas.md](ferramentas.md)
+- [ferramentas.md](ferramentas/)
 - [templates/](templates/)
 
 ---
